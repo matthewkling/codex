@@ -1,0 +1,13 @@
+name: codex
+title: codex
+username:
+account: matthewkling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5165749
+bundleId: 5271894
+url: https://matthewkling.shinyapps.io/codex/
+when: 1637351759.21555
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: local_data
